@@ -9,4 +9,4 @@
 
   swaggerJs(url, resources);
 ```
-TODO: TS
+
